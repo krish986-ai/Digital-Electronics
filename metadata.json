@@ -1,0 +1,6 @@
+{
+  "name": "DigiLearn — Digital Electronics",
+  "description": "Learn Digital Electronics. Understand It. Simulate It. Master It. Free, detailed, interactive textbook, lab simulations, solvers, and question bank.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
